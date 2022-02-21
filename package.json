@@ -6,10 +6,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "httpsgithub.commohammedmaqbol-Markdown-Blog"
-  },
   "author": "Mohamemd",
   "license": "ISC",
   "dependencies": {
